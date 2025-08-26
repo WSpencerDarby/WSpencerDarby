@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🛠️ Hi, I'm Spencer(I go by my middle name)
 
-<!--
-**WSpencerDarby/WSpencerDarby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flight Management Systems Engineer @ Boeing  
+🎓 Master’s student in Computer Science  
+🛰️ Background in Aerospace Engineering
 
-Here are some ideas to get you started:
+## 👨‍💻 Interests
+- Embedded systems & low-level programming  
+- Modeling & simulation  
+- Avionics & real-time systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tools & Languages
+C • C++ • Python • Simulink • Matlab • Git 
+
+## 🌄 Outside of Work
+Pickleball 🏓 • Mountain biking 🚵‍♂️ • Off-roading 🛻 • Anything that flies ✈️
+
